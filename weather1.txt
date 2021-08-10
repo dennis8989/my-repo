@@ -1,0 +1,312 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "data[0]",
+        "contents": [],
+        "wrap": true,
+        "margin": "none",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "color": "#FF8040"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://i.imgur.com/jYywiBy.jpeg",
+    "aspectMode": "cover",
+    "size": "full",
+    "aspectRatio": "10:3"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "hello, world",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "data[3]",
+                    "weight": "bold",
+                    "size": "lg"
+                  }
+                ],
+                "offsetTop": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "降雨機率",
+                    "flex": 5,
+                    "size": "lg"
+                  },
+                  {
+                    "type": "text",
+                    "text": "data[38]",
+                    "weight": "bold",
+                    "flex": 3,
+                    "margin": "none",
+                    "size": "lg"
+                  }
+                ],
+                "offsetTop": "lg"
+              }
+            ],
+            "flex": 3
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "體感",
+                "size": "lg",
+                "color": "#FF0000",
+                "weight": "bold"
+              }
+            ],
+            "offsetStart": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "hello, world",
+            "contents": [
+              {
+                "type": "span",
+                "text": "data[4]",
+                "size": "4xl",
+                "decoration": "none",
+                "weight": "bold"
+              }
+            ],
+            "offsetEnd": "none",
+            "offsetStart": "sm",
+            "flex": 2
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [
+          {
+            "type": "text",
+            "text": "現在",
+            "size": "md",
+            "offsetTop": "none"
+          },
+          {
+            "type": "text",
+            "text": "data[36]",
+            "size": "md",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "最高"
+          },
+          {
+            "type": "text",
+            "text": "data[61]",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "最低"
+          },
+          {
+            "type": "text",
+            "text": "data[62]",
+            "weight": "bold"
+          }
+        ],
+        "offsetTop": "xs",
+        "margin": "sm"
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#463E3F"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "濕度"
+          },
+          {
+            "type": "text",
+            "text": "data[7]",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "風向"
+          },
+          {
+            "type": "text",
+            "text": "data[9]",
+            "weight": "bold"
+          }
+        ],
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "能見度"
+          },
+          {
+            "type": "text",
+            "text": "data[6]",
+            "weight": "bold",
+            "size": "sm",
+            "offsetTop": "xs"
+          },
+          {
+            "type": "text",
+            "text": "氣壓",
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "data[10][3:]",
+            "weight": "bold",
+            "align": "start",
+            "size": "xxs",
+            "offsetTop": "xs"
+          }
+        ],
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UV"
+          },
+          {
+            "type": "text",
+            "text": "data[5][0]",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "月相"
+          },
+          {
+            "type": "text",
+            "text": "data[11]",
+            "weight": "bold"
+          }
+        ],
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "日出"
+          },
+          {
+            "type": "text",
+            "text": "data[1]",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "日落"
+          },
+          {
+            "type": "text",
+            "text": "data[2]",
+            "weight": "bold"
+          }
+        ],
+        "margin": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "AQI"
+          },
+          {
+            "type": "text",
+            "text": "data[13]",
+            "weight": "bold",
+            "offsetStart": "none"
+          },
+          {
+            "type": "text",
+            "text": "露點"
+          },
+          {
+            "type": "text",
+            "text": "data[8]",
+            "weight": "bold"
+          }
+        ],
+        "margin": "sm"
+      },
+      {
+        "type": "separator",
+        "margin": "md",
+        "color": "#463E3F"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "data[14]",
+            "wrap": true,
+            "color": "#2554C7",
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "data[12]",
+            "color": "#6CC417",
+            "margin": "md"
+          }
+        ]
+      }
+    ]
+  }
+}

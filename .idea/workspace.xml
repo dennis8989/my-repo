@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44db288c-5353-40e5-911b-6ced4a0ccdd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/36_RegEx-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/36_regex-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/get_ptt_data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/get_ptt_data2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/request test-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.0.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_RegEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36_regex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dennis.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Levent.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_ptt_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_ptt_data2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/.markdownlint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/com.github.gitwatch.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/gitwatch.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/gitwatch@.service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/tests/commitlog.bats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/tests/remotedirs.bats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/tests/startup-shutdown.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/tests/status-change.bats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/tests/sync.bats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppyy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/request test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vKoDYR3p4zeWQazsKQV40a4D1l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Drive\Python\Project\test\getdriver_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.getdriver_test (1)">
+    <configuration name="getdriver_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/getdriver_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getdriver_test/getdriver_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getdriver_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\My Drive\Python\Project\test\getdriver_test\getdriver_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getdriver_test (1)" />
+        <item itemvalue="Python.getdriver_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44db288c-5353-40e5-911b-6ced4a0ccdd3" name="Default Changelist" comment="" />
+      <created>1626320022555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626320022555</updated>
+      <workItem from="1627232228276" duration="1427000" />
+      <workItem from="1627402888778" duration="593000" />
+      <workItem from="1627740278244" duration="14309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$getdriver_test.coverage" NAME="getdriver_test Coverage Results" MODIFIED="1627909295171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$getdriver_test__1_.coverage" NAME="getdriver_test (1) Coverage Results" MODIFIED="1627909321295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getdriver_test" />
+  </component>
+</project>
