@@ -1,41 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44db288c-5353-40e5-911b-6ced4a0ccdd3" name="Default Changelist" comment="">
+    <list default="true" id="44db288c-5353-40e5-911b-6ced4a0ccdd3" name="Default Changelist" comment="2021/08/10">
+      <change afterPath="$PROJECT_DIR$/Project_in_developing/english_dictionary/cambridge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ffmpeg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/os/multi_th.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zip/extract_file_for_G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zip/get_pwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zip/ossystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/zip/zip_mp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/36_RegEx-checkpoint.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/36_regex-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/get_ptt_data-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/get_ptt_data2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/datareader-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/request test-checkpoint.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1.0.0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/36_RegEx.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/36_regex.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Dennis.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Levent.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TALIB.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Untitled1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/command test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/command test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid19.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datareader.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day20_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook_crawler.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forecast.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/get_ptt_data.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/get_ptt_data2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/.markdownlint.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/com.github.gitwatch.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/gitwatch.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/gitwatch@.service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/tests/commitlog.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/tests/remotedirs.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/tests/startup-shutdown.bash" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/tests/status-change.bats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitwatch/tests/sync.bats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitwatch/gitwatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gsearch.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gtranslation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgur.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/.ipynb_checkpoints/testChart-checkpoint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/datetime.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datetime.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/googlesheet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/googlesheet.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/open.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/os/os.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/os/os.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/re.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/re.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rrrr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/short_url.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/short_url.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/testChart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playwright.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgresql.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ppyy.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/request test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_backtesting.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_pic.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weathercom.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/word_test.ipynb" beforeDir="false" />
+    </list>
+    <list id="59136f1c-bfb5-4527-921b-a984ed84081b" name="Revert &quot;2021/08/10&quot;" comment="Revert &quot;2021/08/10&quot;&#10;&#10;This reverts commit 32d74606">
+      <change beforePath="$PROJECT_DIR$/siebel/siebel_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +81,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dennis89 &lt;devilcool1985@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vKoDYR3p4zeWQazsKQV40a4D1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,7 +104,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LineBOT/dennis89linebot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -69,8 +115,8 @@
       <recent name="G:\My Drive\Python\Project\test\getdriver_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.getdriver_test (1)">
-    <configuration name="getdriver_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.extract_file_for_G">
+    <configuration name="cambridge (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/getdriver_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_in_developing/english_dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getdriver_test/getdriver_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_in_developing/english_dictionary/cambridge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getdriver_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cambridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +146,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_in_developing/english_dictionary/.ipynb_checkpoints" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\My Drive\Python\Project\test\getdriver_test\getdriver_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_in_developing/english_dictionary/.ipynb_checkpoints/cambridge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_file_for_G" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/zip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/zip/extract_file_for_G.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ffmpeg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/ffmpeg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="google_translation_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project_in_developing/english_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_in_developing/english_dictionary/google_translation_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,8 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.getdriver_test (1)" />
-        <item itemvalue="Python.getdriver_test" />
+        <item itemvalue="Python.extract_file_for_G" />
+        <item itemvalue="Python.ffmpeg" />
+        <item itemvalue="Python.cambridge (1)" />
+        <item itemvalue="Python.cambridge" />
+        <item itemvalue="Python.google_translation_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +247,31 @@
       <workItem from="1627232228276" duration="1427000" />
       <workItem from="1627402888778" duration="593000" />
       <workItem from="1627740278244" duration="14309000" />
+      <workItem from="1628596964871" duration="736000" />
+      <workItem from="1628605879475" duration="1086000" />
+      <workItem from="1628612179096" duration="17767000" />
+      <workItem from="1628904682713" duration="2717000" />
+      <workItem from="1629614667767" duration="7072000" />
+      <workItem from="1629737685102" duration="22577000" />
+      <workItem from="1630069367633" duration="10296000" />
+      <workItem from="1630219222425" duration="109000" />
+      <workItem from="1630247170650" duration="2433000" />
     </task>
+    <task id="LOCAL-00001" summary="2021/08/10">
+      <created>1628597282124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628597282124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;2021/08/10&quot;&#10;&#10;This reverts commit 32d74606">
+      <created>1628597359945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628597359945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,15 +282,77 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021/08/10" />
+    <MESSAGE value="Revert &quot;2021/08/10&quot;&#10;&#10;This reverts commit 32d74606" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2021/08/10&quot;&#10;&#10;This reverts commit 32d74606" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/zip/get_pwd.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/zip/extract_file_for_G.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/zip/extract_file_for_G.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project_in_developing/english_dictionary/google_translation_demo.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Project_in_developing/english_dictionary/google_translation_demo.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$multi_th.coverage" NAME="multi_th Coverage Results" MODIFIED="1628838043068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/os" />
+    <SUITE FILE_PATH="coverage/test$google_translation_demo.coverage" NAME="google_translation_demo Coverage Results" MODIFIED="1629987646625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project_in_developing/english_dictionary" />
+    <SUITE FILE_PATH="coverage/test$test.coverage" NAME="test Coverage Results" MODIFIED="1629071301348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$extract_file_for_G.coverage" NAME="extract_file_for_G Coverage Results" MODIFIED="1630070386505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/zip" />
+    <SUITE FILE_PATH="coverage/test$googlenews.coverage" NAME="googlenews Coverage Results" MODIFIED="1629534992188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$Taiwan_News_Crawler.coverage" NAME="Taiwan_News_Crawler Coverage Results" MODIFIED="1629123697338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv_test/Lib/site-packages/Taiwan_News_Crawler" />
+    <SUITE FILE_PATH="coverage/test$zip_mp.coverage" NAME="zip_mp Coverage Results" MODIFIED="1629593075481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/zip" />
+    <SUITE FILE_PATH="coverage/test$cambridge__1_.coverage" NAME="cambridge (1) Coverage Results" MODIFIED="1630342097549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project_in_developing/english_dictionary" />
+    <SUITE FILE_PATH="coverage/test$cambridge.coverage" NAME="cambridge Coverage Results" MODIFIED="1630070362281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project_in_developing/english_dictionary/.ipynb_checkpoints" />
     <SUITE FILE_PATH="coverage/test$getdriver_test.coverage" NAME="getdriver_test Coverage Results" MODIFIED="1627909295171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$google_translation_demo__1_.coverage" NAME="google_translation_demo (1) Coverage Results" MODIFIED="1629045415976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/english dictionary" />
+    <SUITE FILE_PATH="coverage/test$get_pwd.coverage" NAME="get_pwd Coverage Results" MODIFIED="1629542794948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/zip" />
+    <SUITE FILE_PATH="coverage/test$ffmpeg.coverage" NAME="ffmpeg Coverage Results" MODIFIED="1630342219866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/test$ossystem.coverage" NAME="ossystem Coverage Results" MODIFIED="1629612257953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/zip" />
     <SUITE FILE_PATH="coverage/test$getdriver_test__1_.coverage" NAME="getdriver_test (1) Coverage Results" MODIFIED="1627909321295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/getdriver_test" />
+    <SUITE FILE_PATH="coverage/test$oxford.coverage" NAME="oxford Coverage Results" MODIFIED="1628961349423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
